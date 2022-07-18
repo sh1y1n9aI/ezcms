@@ -1,5 +1,5 @@
 # ezcms
-简单的bolg系统
+简单的blog系统
 
 # 安装
 新建数据库，导入sql目录下的sql文件。
