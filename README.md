@@ -6,3 +6,6 @@
 修改config/config.php文件即可访问。
 
 可以使用phpstudy建站，比较方便。
+
+# 后台地址(admin/123456)：
+admin/login.php
